@@ -2,7 +2,7 @@
 // @name        ktdl
 // @namespace   tny
 // @match       https://canvas.illinois.edu/*
-// @match       https://mediaspace.illinois.edu/media/*
+// @match       https://splitsvilla.net*
 // @grant       none
 // @version     0.0.4
 // @author      tny
